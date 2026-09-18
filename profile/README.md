@@ -43,15 +43,15 @@ You do not need a GitHub account to propose a contribution.
 **Primary path — [share your idea through the OpenProof form](https://openproof.net/?interest=research&utm_campaign=first-contributors&utm_medium=contribute-section&utm_source=openproof-site)**  
 Choose *Research / contribution*, describe the observation or contribution you would like to make, and do not send confidential documents.
 
-**Optional GitHub exercise — [review one claim in 15 minutes](https://github.com/openproof-net/rpo-spec-v0.1/issues/44)**  
+**Optional GitHub exercise — [review one claim in 15 minutes](https://github.com/openproof-net/openproof-rpo/issues/44)**  
 Identify what the fictional sources support, what challenges the claim, and what remains missing. Reading is open; a GitHub account is only needed to reply.
 
 More ways to help:
 
-- [Start here: contribution orientation](https://github.com/openproof-net/rpo-spec-v0.1/issues/43)
-- [Improve source readability](https://github.com/openproof-net/rpo-spec-v0.1/issues/45)
-- [Describe a citation check](https://github.com/openproof-net/rpo-spec-v0.1/issues/46)
-- [Contribution scope and rights](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/CONTRIBUTING.md)
+- [Start here: contribution orientation](https://github.com/openproof-net/openproof-rpo/issues/43)
+- [Improve source readability](https://github.com/openproof-net/openproof-rpo/issues/45)
+- [Describe a citation check](https://github.com/openproof-net/openproof-rpo/issues/46)
+- [Contribution scope and rights](https://github.com/openproof-net/openproof-rpo/blob/main/CONTRIBUTING.md)
 
 Accepted work is credited to the contributor's chosen public name or handle.
 
@@ -59,10 +59,10 @@ Accepted work is credited to the contributor's chosen public name or handle.
 
 The public **Reviewable Proof Object (RPO) v0.1** is a structured record format for keeping claims, sources, reservations and review decisions connected.
 
-- [RPO v0.1 repository](https://github.com/openproof-net/rpo-spec-v0.1)
+- [RPO v0.1 repository](https://github.com/openproof-net/openproof-rpo)
 - [Specification guide](https://openproof.net/docs/spec.html)
-- [Local integrity exercise](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/START_HERE.md)
-- [Community and contribution paths](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/COMMUNITY.md)
+- [Local integrity exercise](https://github.com/openproof-net/openproof-rpo/blob/main/START_HERE.md)
+- [Community and contribution paths](https://github.com/openproof-net/openproof-rpo/blob/main/COMMUNITY.md)
 
 The public repository and its licence apply only to the material contained there. The complete OpenProof application and TruthX Engine are not currently released as open-source software.
 
@@ -90,7 +90,7 @@ OpenProof builds on research collaboration with **GREYC / Université de Caen No
 
 Under **Professor Gaël Dias's** academic supervision, **Lucy Martin** and **Clément Correia-Peltier** developed a multi-agent research prototype and delivered code, a report and a presentation in May 2026. The prototype is a research foundation; its integration into the current engine still needs to be implemented and evaluated.
 
-[Research contributions and credits](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/RESEARCH_COLLABORATION.md)
+[Research contributions and credits](https://github.com/openproof-net/openproof-rpo/blob/main/RESEARCH_COLLABORATION.md)
 
 ## Founder
 
@@ -106,7 +106,7 @@ OpenProof was conceived and is led by **Gersende Ryard de Parcey**, founder of T
 
 ### Make room for facts. Build together.
 
-[OpenProof](https://openproof.net/) · [Public documentation](https://openproof.net/docs/spec.html) · [GitHub exercise #44](https://github.com/openproof-net/rpo-spec-v0.1/issues/44)
+[OpenProof](https://openproof.net/) · [Public documentation](https://openproof.net/docs/spec.html) · [GitHub exercise #44](https://github.com/openproof-net/openproof-rpo/issues/44)
 
 <sub>OpenProof does not determine truth, law or responsibility. Decisions remain human.</sub>
 
