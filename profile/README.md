@@ -6,7 +6,7 @@
 
 **OpenProof by TruthX** helps people examine complex document sets without losing the thread between a finding, its source, the elements that challenge it, and the human decision that follows.
 
-[Explore the fictional case](https://openproof.net/docs/case-brief.html) · [Offer a contribution](https://openproof.net/?interest=research&utm_campaign=first-contributors&utm_medium=contribute-section&utm_source=openproof-site) · [Read the RPO specification](https://openproof.net/docs/spec.html)
+[Request an OpenProof Legal pilot](https://openproof.net/qualify?intent=case) · [Explore the fictional case](https://openproof.net/docs/case-brief.html) · [Offer a contribution](https://openproof.net/?interest=research&utm_campaign=first-contributors&utm_medium=contribute-section&utm_source=openproof-site) · [Read the RPO specification](https://openproof.net/docs/spec.html)
 
 [English](https://openproof.net/) · [Français](https://openproof.net/fr)
 
@@ -57,7 +57,7 @@ Accepted work is credited to the contributor's chosen public name or handle.
 
 ## Open technology
 
-The public **Reviewable Proof Object (RPO) v0.1** is a structured record format for keeping claims, sources, reservations and review decisions connected.
+The public **Registered Probative Object (RPO) v0.1** is a structured record format for keeping claims, sources, reservations and review decisions connected.
 
 - [RPO v0.1 repository](https://github.com/openproof-net/openproof-rpo)
 - [Specification guide](https://openproof.net/docs/spec.html)
