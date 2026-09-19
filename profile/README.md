@@ -8,6 +8,9 @@
 
 [Request an OpenProof Legal pilot](https://openproof.net/qualify?intent=case) · [Explore the fictional case](https://openproof.net/docs/case-brief.html) · [Offer a contribution](https://openproof.net/?interest=research&utm_campaign=first-contributors&utm_medium=contribute-section&utm_source=openproof-site) · [Read the RPO specification](https://openproof.net/docs/spec.html)
 
+**[♥ Sponsor OpenProof’s public work](https://github.com/sponsors/openproof-net)**  
+Support the public integrity checker, reproducible tests and fictional examples. One-time and monthly contributions are available.
+
 [English](https://openproof.net/) · [Français](https://openproof.net/fr)
 
 </div>
